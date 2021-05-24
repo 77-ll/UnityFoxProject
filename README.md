@@ -1,2 +1,2 @@
 # UnityFoxProject
-Demo
+This is a simple horizontal game Demo
